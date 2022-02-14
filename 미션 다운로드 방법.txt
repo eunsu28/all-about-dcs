@@ -1,3 +1,9 @@
 zip파일을 압축해제 하시고 zip파일 안에 있는 미션들을
 C:\Users\사용자명\저장된 게임\DCS.openbeta\Missions
 위 경로로 들어가셔서 넣어주세요
+
+
+
+
+
+6bh0KrfxYYFkH7jDMptRxYyQ6hlf9lj7HaS5ObrMi5I=

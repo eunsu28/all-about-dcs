@@ -4,10 +4,52 @@ f-15c
 
 how to start
 1. press R.Shift + L 
-2. press R.Shift + Home
+2. press R.Alt + HOME & R.Ctrl + HOME
 3. Press L.Ctrl + C 
 4. L.Shift + F 
 5. and play
 
 
 그그 뭐냐 아 그 2022
+
+:D Export the Keyboard to HTML for Excel or Open Office and read / search in the manual
+
+ 
+
+ 
+
+"1" Navigation-Mode
+
+"LCtrl - `" Next Waypoint, Airfield Or Target
+
+ 
+
+"H"; "LAlt - 2" Autopilot - Altitude Hold
+
+"A"; "LAlt - 1" Autopilot - Attitude Hold
+
+"LAlt - 9" Autopilot Disengage
+
+ 
+
+ 
+
+\Eagle Dynamics\DCS World\Mods\aircraft\Flaming Cliffs\Doc\F-15C DCS Flaming Cliffs Flight Manual EN.pdf
+
+ 
+
+Page 140
+
+Navigation
+
+Step 1
+
+Select NAV mode as indicated in the bottom right corner of the HUD [1].
+
+Step 2
+
+Cycle navigation waypoint [LCtrl-`] as indicated in lower right corner of the HUD.
+
+Step 3
+
+Fly to align the velocity vector on the HUD with the bank steering indicator to reach the selected waypoint.
